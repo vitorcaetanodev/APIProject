@@ -1,10 +1,4 @@
 C:\Users\vitor\Desktop\APIProject\ApiProject\bin\Debug\net6.0\ApiProject.exe
-C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.csproj.AssemblyReference.cache
-C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.AssemblyInfoInputs.cache
-C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.AssemblyInfo.cs
-C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.csproj.CoreCompileInputs.cache
-C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\vitor\Desktop\APIProject\ApiProject\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\vitor\Desktop\APIProject\ApiProject\bin\Debug\net6.0\appsettings.json
 C:\Users\vitor\Desktop\APIProject\ApiProject\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
@@ -31,6 +25,12 @@ C:\Users\vitor\Desktop\APIProject\ApiProject\bin\Debug\net6.0\runtimes\win-arm\n
 C:\Users\vitor\Desktop\APIProject\ApiProject\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\vitor\Desktop\APIProject\ApiProject\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\vitor\Desktop\APIProject\ApiProject\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.AssemblyInfo.cs
+C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\staticwebassets\msbuild.ApiProject.Microsoft.AspNetCore.StaticWebAssets.props
