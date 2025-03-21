@@ -7,9 +7,9 @@ namespace ApiProject.Data
     {
         public DbSet<Model> Model { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            => optionsBuilder.useSqlite(connectionstring: "DataSource=app.db;Cache=Shared");
-        }
+        protected override void OnConfiguring(
+            DbContextOptionsBuilder optionsBuilder)
+            => optionsBuilder.UseSqlite(connectionString: "DataSource=app.db;Cache=Shared");
+        
     }
 }
