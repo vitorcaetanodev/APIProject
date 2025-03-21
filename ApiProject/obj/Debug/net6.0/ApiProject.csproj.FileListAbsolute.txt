@@ -43,3 +43,12 @@ C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.csproj.
 C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.dll
 C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\refint\ApiProject.dll
 C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.pdb
+C:\Users\vitor\Desktop\APIProject\ApiProject\bin\Debug\net6.0\ApiProject.deps.json
+C:\Users\vitor\Desktop\APIProject\ApiProject\bin\Debug\net6.0\ApiProject.runtimeconfig.json
+C:\Users\vitor\Desktop\APIProject\ApiProject\bin\Debug\net6.0\ApiProject.dll
+C:\Users\vitor\Desktop\APIProject\ApiProject\bin\Debug\net6.0\ApiProject.pdb
+C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.sourcelink.json
+C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ApiProject.genruntimeconfig.cache
+C:\Users\vitor\Desktop\APIProject\ApiProject\obj\Debug\net6.0\ref\ApiProject.dll
+C:\Users\vitor\Desktop\APIProject\ApiProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vitor\Desktop\APIProject\ApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
